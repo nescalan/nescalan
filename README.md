@@ -16,9 +16,9 @@ My goal is to continue growing professionally, learning new technologies, and co
 I am constantly expanding my knowledge in different programming languages and technological tools. Currently, I am learning and working with:
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- **Backend**: PHP
+- **Backend**: PHP, Python, Bash
 - **Operating Systems**: Linux
-- **Databases**: SQL
+- **Databases**: MySQL
 - **CMS**: WordPress
 
 ### Current Projects
